@@ -1,3 +1,5 @@
+DEPRECATED - This repository is no longer being maintained and is available for reuse.
+
 # cloud.gov Precompiled CRAN (cflinuxfs3-CRAN)
 
 Due to the 15 minute timeout on buildpacks and the lack of precompiled R packages for linux, R buildpack applications often fail to deploy. To resolve this issue, we have created the cflinuxfs3-CRAN repository.
